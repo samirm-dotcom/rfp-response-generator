@@ -85,3 +85,7 @@ Three steps use AI. Everything around them (file extraction, checks, formatting)
 I defined the problem and the requirements: the source-quote rule, conflict handling, gap reporting and the human-review step. I directed the build with AI coding tools (Claude Code), and ran and reviewed the verification.
 
 **Built with:** Next.js · TypeScript · Claude API · docx · pdf-parse · mammoth · ExcelJS
+
+---
+
+© 2026 Samir Mammadli. All rights reserved. This case study and the software it describes are proprietary. No license is granted to copy, modify or redistribute them.
